@@ -14,7 +14,7 @@ github_username:  ivicamicev
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
+instagram_username: micevivica
 linkedin_username: ivica-micev-2420645
 # pinterest_username: jekyll
 youtube_username: ivica.micev
@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Skilled DevOps Engineer with 10+ years experience in IT as System Engineer and 3+ years of hands-on experience in building and supporting workloads on AWS using infrastructure as a code and DevOps principals, 2 years experience as AWS Solutions Architect. Passion for building new and improving existing workloads on AWS based on Well Architected Framework, helping in cloud journey and application transformation.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Burgers :)</mark>
+  I am most skilled in: <mark>AWS</mark>, <mark>Scripting Languges</mark>,<mark>Infrastructure as a code</mark><mark>Cloud Solutions</mark> 
 
 # Projects Section
 # projects_title: Projects
@@ -40,11 +40,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in cloud, aws infrastructure as a code and software engineering some of my other interests and hobbies are:
+   - Fishing
+   - Organizing AWS User group events (meetups)
+   - Coffee lover, i like to try all bleds of esspresso
 
 # Footer
 footer_show_references: true
