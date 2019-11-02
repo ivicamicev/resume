@@ -1,0 +1,60 @@
+# Site
+repository: sproogen/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Ivica Micev
+title: Dev Ops | AWS Solutions Architect
+email: ivica.micev@tuliptp.com
+website: tuliptp.com
+
+# Social links
+twitter_username: ivicamicev
+github_username:  ivicamicev
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: chillwildlife
+linkedin_username: ivica-micev-2420645
+# pinterest_username: jekyll
+youtube_username: ivica.micev
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Skilled DevOps Engineer with 10+ years experience in IT as System Engineer and 3+ years of hands-on experience in building and supporting workloads on AWS using infrastructure as a code and DevOps principals, 2 years experience as AWS Solutions Architect. Passion for building new and improving existing workloads on AWS based on Well Architected Framework, helping in cloud journey and application transformation.
+
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Burgers :)</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Rock climbing
+   - Gaming
+   - Knitting
+   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
